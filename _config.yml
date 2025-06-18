@@ -3,4 +3,3 @@ description: "A personal holding page"
 baseurl: "" # root
 url: "https://harringr.ai"
 theme: jekyll-theme-cayman
-markdown: kramdown
